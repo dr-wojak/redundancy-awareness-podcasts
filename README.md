@@ -9,6 +9,8 @@ This material is published **in the public interest**. It is not party-political
 
 The recordings span nearly two decades of analysis and engagement, across domains including defence, foreign affairs, public administration, infrastructure, and emergency planning. Together, they form a practical record of how warnings, models, and proposals entered the system — and how they stalled.
 
+To paraphrase Avoine & Vaudenay: **the Fair Exchange Problem is a Synchronization Problem**.
+
 ---
 
 ## **How to Use This Page**
