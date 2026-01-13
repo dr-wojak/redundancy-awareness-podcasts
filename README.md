@@ -1,3 +1,4 @@
+![Redundancy Awareness Podcasts](https://github.com/dr-wojak/redundancy-awareness-podcasts/blob/main/d-r-podcasts.png)
 # **Public Interest Audio & Briefings**
 
 ## **Evidence, Decision Systems, and Governance Under Strain**
